@@ -1,0 +1,6 @@
+{
+    "schema_version":  1,
+    "algorithm":  "RSA-SHA256-PKCS1",
+    "key_id":  "airguard-update-v1",
+    "public_key_xml":  "\u003cRSAKeyValue\u003e\u003cModulus\u003e22X876obojghTdJKB9MBawfyuPMx88w0ubNhvsbVhCs3yF+FDRYe3L6KyV9qTfMaBiCMSeJyDYRu+6SgHZLyKeqBgWBilOibVvfSqLMKuPAHLL8FdiGDwJQkjAOxm4sh7oBik5cw9LuKCim9h84I151yywiTUBYyhv0s867NgR5DmDXL19Cf8ARSRU44ae9lh5x2t9LgiYvkfwkvBJtHNxxI73tffcDxc7vaiw3WstaLuIE5cvcJmbNc0yAwuZNUrc7FW7T8pG74vdu6X+5Mx5P3BEq5E7pQcYETwrvahcf9HiVsxM8NRB81TCdmkN6trzWjfyE9U9XoR+YwmLZXCQ==\u003c/Modulus\u003e\u003cExponent\u003eAQAB\u003c/Exponent\u003e\u003c/RSAKeyValue\u003e"
+}
