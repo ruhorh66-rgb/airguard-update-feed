@@ -1,14 +1,14 @@
 {
     "schema_version":  1,
     "product":  "airguard",
-    "version":  "0.1.38",
+    "version":  "0.1.39",
     "channel":  "stable",
-    "source_commit":  "867755e8eb7467bb7de071e5c092c2820ca68c48",
-    "asset_name":  "AirGuard-0.1.38.zip",
-    "asset_url":  "https://github.com/ruhorh66-rgb/airguard-update-feed/releases/download/v0.1.38/AirGuard-0.1.38.zip",
-    "asset_sha256":  "57fbabe0de26e7b61f41e31be55f9e95920057c7de1b47a59151e2736b8a6aca",
-    "asset_size":  764141,
-    "published_at":  "2026-10-06T03:23:20Z",
+    "source_commit":  "09c75c3e769f31a9283f612e84301b0154d1a5c0",
+    "asset_name":  "AirGuard-0.1.39.zip",
+    "asset_url":  "https://github.com/ruhorh66-rgb/airguard-update-feed/releases/download/v0.1.39/AirGuard-0.1.39.zip",
+    "asset_sha256":  "2e68ea56389a70c7143faeaa3ca91b680ff110025089ea51ddece6e1430c273b",
+    "asset_size":  764895,
+    "published_at":  "2026-10-06T03:59:28Z",
     "signing_key_id":  "airguard-update-v1",
-    "signature_b64":  "OdC2R8NWdkcIsl0IqeSxX361f04chervPr//WR8Tz5DXT4v/RE2dqxKj08p+hyY+mMPbj7SW6pFfjcdLk1NNF1CBd1FVVhZnArQ5wqtHjPsb9PXW76lMJ4tbt70kl9+ENrQoIDfoWlNdIy4x/wNJvr0gCu26U27PX+TUrQAyWDb9iutRQjx26MA1LUXqmnr6KpPNmBstrnSNXIUW28LK/svNukrcE3WDYygxGmEwUsa0vas42Sam+IBmLwNbMQYB6NHHyfMICGFPqQ92DXo3KaVy7R+9yDGdylLzoG6FPLISJCt24nzN79Aip3ylOGcPXB7PPat9Uhc/oBRJlHSBmg=="
+    "signature_b64":  "S1d5Qa3kr1icm4RAvgqicio1ptQGT+F9Zcq7jPHPGb7m9A1VM5Okyho2j3s9Ibjj4g8NFxQmjE4zwldvfVtm4hfq81iKQr4QDF0fFLdDzqLaGmlLC2/Ac1+sFDTMDliy8Rb4nxhnK8SI5BOmIMQUs8B5FSZFWD8dg1lvA3DQ4MdHwjYQIaB9Htj5ku7HIUHXLsH3bJ6l/8VQifiIQZHFuvAKXyAI/E9+m4TRr/jvAr3dk3Z9KgEanUBILuVBw7/RJEB+qCvGQpQiN8jETL2iiyCLFVpgtVdThW9wrLghpY9lMP8g0pojBPiLef+gSzgdWmW0+vI54d2MsP3/jI02gg=="
 }
